@@ -35,6 +35,9 @@
      <name>central</name>
 
      <url>http://devserver.lybrate.com:8081/artifactory/libs-release-local</url>
+	   
+	   
+	   
 
    </repository>
 
